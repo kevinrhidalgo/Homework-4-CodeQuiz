@@ -27,7 +27,7 @@ THEN I can save my initials and my score
 
 
 
-URL to my structured Coding Quiz:
+URL to my structured Coding Quiz: https://kevinrhidalgo.github.io/Homework-4-CodeQuiz/
 
 
 

@@ -99,7 +99,7 @@ function getQuestion() {
   }
 }
 
-// When the game ends the questions shouldl hide and the end screen appears.
+// When the game ends the questions should hide and the end screen appears.
 function gameOver() {
     questionScreen.setAttribute("class", "hide");
     endScreen.removeAttribute("class");
